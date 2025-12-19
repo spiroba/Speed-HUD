@@ -107,7 +107,7 @@ These Terms are governed by the laws of the jurisdiction where the developer is 
 
 For questions about these Terms, contact us at:
 
-**Email:** support@speedhud.app
+**Email:** spiro.boris@yandex.ru
 
 ---
 
@@ -146,4 +146,4 @@ SpeedHUD предоставляется "как есть". Мы не несём 
 
 ### Контакты
 
-Email: support@speedhud.app
+Email: spiro.boris@yandex.ru
