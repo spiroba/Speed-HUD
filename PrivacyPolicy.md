@@ -101,7 +101,7 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 If you have questions about this privacy policy, please contact us at:
 
-**Email:** support@speedhud.app
+**Email:** spiro.boris@yandex.ru
 
 ---
 
@@ -135,4 +135,4 @@ SpeedHUD уважает вашу конфиденциальность и обя�
 
 ### Контакты
 
-Email: support@speedhud.app
+Email: spiro.boris@yandex.ru
